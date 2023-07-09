@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Valorant Website Maps</title>
+<style>
+  
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url('valorant_background.jpg');
+            background-size: cover;
+ 	background-attachment: fixed;
+	background-size: 100% 100%;
+            background-repeat: no-repeat;
+    }
+    
+    header {s
+      background-color: #000;
+      color: #fff;
+      padding: 20px;
+    }
+    
+    h1 {
+      margin: 0;
+    }
+    
+    nav {
+      background-color: #f1f1f1;
+      padding: 10px;
+    }
+    
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
+    
+    section {
+      padding: 20px;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Valorant</h1>
+  </header>
+  
+  <nav align="center">
+    <ul >
+      <li><a href="week(71).html">Home</a></li>
+      <li><a href="#">Agents</a></li>
+      <li><a href="MAPS.html">Maps</a></li>
+      <li><a href="#">Weapons</a></li>
+      <li><a href="#">About</a></li>
+    </ul>
+  </nav>
+
+ <section>
+    <h1 align="center" style="color: white">MAPS IN VALORANT</h1>
+</section
+<br>
+
+<h2 align="center" style="color: white">1. ASCENT</h2>
+<div class="row">
+  <div class="column">
+    <img src="ascent_1.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="ascent_3.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="ascent_4.jpg" style="width:100%">
+  </div>
+<div class="column">
+    <img src="ascent_5.jpg" style="width:100%">
+  </div>
+<div class="column">
+    <img src="ascent_2.jpg" style="width:100%">
+  </div>
+</div>
+<br>
+<br>
+<br>
+<h2 align="center" style="color: white">2. BIND</h2>
+<div class="row">
+  <div class="column">
+    <img src="bind_1.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="bind_2.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="bind_3.jpg" style="width:100%">
+  </div>
+<div class="column">
+    <img src="bind_4.jpg" style="width:100%">
+  </div>
+<div class="column">
+    <img src="bind_5.jpg" style="width:100%">
+  </div>
+<div class="column">
+    <img src="bind_6.jpg" style="width:100%">
+  </div>
+<div class="column">
+    <img src="bind_7.jpg" style="width:100%">
+  </div>
+</div>
+
+
+
+
+
+</body>
+</html>
